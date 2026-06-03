@@ -101,4 +101,4 @@ config.js
 
 ## 👩‍💻 Author
 
-**Shalvi Gaur** — [GitHub](https://github.com/Shalvigour)
+**Shalvi Gour** — [GitHub](https://github.com/Shalvigour)
